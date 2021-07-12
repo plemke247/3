@@ -277,7 +277,7 @@
          "opacity":1,
          "tintcolor":"#000000",
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
