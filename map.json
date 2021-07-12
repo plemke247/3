@@ -153,6 +153,17 @@
         }, 
         {
          "draworder":"topdown",
+         "id":2,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":false,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":31,
          "name":"Text",
          "objects":[
@@ -174,12 +185,14 @@
                  "y":2799.56688904494
                 }],
          "opacity":1,
+         "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }, 
         {
+         "color":"#000000",
          "draworder":"topdown",
          "id":32,
          "name":"Goldberg",
@@ -202,6 +215,7 @@
                  "y":2888.40814308318
                 }],
          "opacity":1,
+         "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -230,12 +244,14 @@
                  "y":2734.97026014262
                 }],
          "opacity":1,
+         "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }, 
         {
+         "color":"#000000",
          "draworder":"topdown",
          "id":38,
          "name":"H\u00f6ren",
@@ -259,19 +275,9 @@
                  "y":2012.50517539005
                 }],
          "opacity":1,
+         "tintcolor":"#000000",
          "type":"objectgroup",
          "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":2,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":false,
          "x":0,
          "y":0
         }, 
