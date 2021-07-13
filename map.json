@@ -108,7 +108,7 @@
          "height":100,
          "id":13,
          "name":" bedrock",
-         "opacity":0.42,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -163,6 +163,7 @@
          "y":0
         }, 
         {
+         "color":"#000000",
          "draworder":"topdown",
          "id":31,
          "name":"Text",
