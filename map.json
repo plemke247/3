@@ -191,222 +191,25 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "color":"#000000",
-         "draworder":"topdown",
-         "id":31,
-         "name":"Text",
          "objects":[
                 {
-                 "id":18,
-                 "template":"Begr\u00fc\u00dfung.tx",
+                 "height":65.7381896592974,
+                 "id":37,
+                 "name":"",
+                 "rotation":0,
                  "text":
                     {
-                     "color":"#ff6a00",
-                     "fontfamily":"Arial",
-                     "text":"Willkommen im Ausstelungsraum\nzu \"Samuel Goldberg\" und \"Schmuyle\"",
-                     "wrap":true
-                    },
-                 "x":209.031321082016,
-                 "y":3078.30936396133
-                }],
-         "opacity":1,
-         "tintcolor":"#000000",
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "color":"#000000",
-         "draworder":"topdown",
-         "id":32,
-         "name":"Goldberg",
-         "objects":[
-                {
-                 "id":19,
-                 "template":"Goldberg.tx",
-                 "text":
-                    {
-                     "color":"#512816",
-                     "fontfamily":"Arial",
-                     "text":"Hier siehst du\nSamuel Goldberg.\nEr ist ein wohlhabender,  selbst\u00fcberzeugter Mann.",
-                     "wrap":true
-                    },
-                 "x":884.450610307414,
-                 "y":3144.40814308318
-                }],
-         "opacity":1,
-         "tintcolor":"#000000",
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":33,
-         "name":"Schmuyle",
-         "objects":[
-                {
-                 "id":20,
-                 "template":"Schmuyle.tx",
-                 "text":
-                    {
-                     "color":"#95381c",
-                     "fontfamily":"Arial",
-                     "text":"Schmuyle ist ein armer Mann. Seine Haltung ist gebeugt und angestrengt.",
-                     "wrap":true
-                    },
-                 "x":1511.27376419274,
-                 "y":2990.97026014262
-                }],
-         "opacity":1,
-         "tintcolor":"#000000",
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "color":"#000000",
-         "draworder":"topdown",
-         "id":38,
-         "name":"H\u00f6ren",
-         "objects":[
-                {
-                 "id":27,
-                 "template":"H\u00f6ren.tx",
-                 "text":
-                    {
+                     "color":"#ff5400",
                      "fontfamily":"Arial",
                      "pixelsize":24,
-                     "text":"Jetzt h\u00f6ren wir aber mal Mussorskys Musik! Kannst du erkennen, wann der arme und wann der reiche Mann beschrieben wird?\n",
-                     "wrap":true
-                    },
-                 "x":2219.32904297957,
-                 "y":2466.72235500534
-                }],
-         "opacity":1,
-         "tintcolor":"#000000",
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":43,
-         "name":"Infos",
-         "objects":[
-                {
-                 "height":68.0047358416361,
-                 "id":32,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "fontfamily":"Arial",
-                     "text":"Hier findest du neue Informationen zu dem Musikst\u00fcck",
+                     "text":"Herzlich Willkommen!",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":148.862021499738,
-                 "x":22.5800013109596,
-                 "y":535.937327936549
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":44,
-         "name":"H\u00f6ren 2",
-         "objects":[
-                {
-                 "height":35.7642237732656,
-                 "id":33,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "fontfamily":"Arial",
-                     "text":"M\u00f6chtest du nochmal h\u00f6ren?",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":220.984112172788,
-                 "x":325.956635065194,
-                 "y":191.633166305862
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":45,
-         "name":"Austausch",
-         "objects":[
-                {
-                 "height":53.8926339697473,
-                 "id":34,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "fontfamily":"Arial",
-                     "text":"Hier k\u00f6nnt ihr euch austauschen!",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":176.858905183545,
-                 "x":327.545459786017,
-                 "y":872.334258554695
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":46,
-         "name":"Tsch\u00fcss",
-         "objects":[
-                {
-                 "height":32.6788357775317,
-                 "id":35,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "fontfamily":"Arial",
-                     "pixelsize":24,
-                     "text":"Tsch\u00fcss!",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":108.605815347722,
-                 "x":170.74782097399,
-                 "y":1175.78380660856
+                 "width":193.726349411427,
+                 "x":229.483844147765,
+                 "y":3072.21273118241
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -439,7 +242,7 @@
          "y":0
         }],
  "nextlayerid":48,
- "nextobjectid":36,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.0",
