@@ -211,8 +211,10 @@
                  "rotation":0,
                  "text":
                     {
+                     "bold":true,
                      "color":"#ff5400",
                      "fontfamily":"Arial",
+                     "kerning":false,
                      "pixelsize":24,
                      "text":"Herzlich Willkommen!",
                      "wrap":true
@@ -230,14 +232,14 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Das ist Samuelgoldberg.  Er ist ein reicher selbstbewusster Mann.",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":253.189920273349,
+                 "width":273.18286394029,
                  "x":847.588790812453,
                  "y":3141.67911209188
                 }, 
@@ -249,7 +251,7 @@
                  "text":
                     {
                      "color":"#ff0086",
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Hier siehst du Schmuyle.  Er sitzt hier \u00e4rmlich und gekr\u00fcmmt.",
                      "wrap":true
@@ -267,7 +269,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Jetzt h\u00f6ren wir aber mal Mussorskys Musik zu den beiden Bildern. Erkennst du, wann welcher Mann beschrieben wird?",
                      "wrap":true
@@ -285,7 +287,7 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Lauf bitte z\u00fcgig durch die G\u00e4nge!",
                      "wrap":true
@@ -304,7 +306,7 @@
                  "text":
                     {
                      "color":"#ff0000",
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"M\u00f6chtest du nochmal h\u00f6ren?",
                      "wrap":true
@@ -323,7 +325,7 @@
                  "text":
                     {
                      "color":"#ff0000",
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Hier findest du neue Informationen",
                      "wrap":true
@@ -342,7 +344,7 @@
                  "text":
                     {
                      "color":"#ff0000",
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Unterhaltet euch \u00fcber das Geh\u00f6rte!",
                      "wrap":true
@@ -361,7 +363,7 @@
                  "text":
                     {
                      "color":"#ff0000",
-                     "fontfamily":".AppleSystemUIFont",
+                     "fontfamily":"Arial",
                      "pixelsize":24,
                      "text":"Tsch\u00fcss! Bis zum n\u00e4chsten Mal!",
                      "wrap":true
